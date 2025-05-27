@@ -448,26 +448,26 @@ The application uses **JWT (JSON Web Tokens)** for authentication. When a user l
 
   - 🔗 LinkedIn: [Vijeta](https://www.linkedin.com/in/vijetaagupta/)
   - 🐦 Twitter: [...](links)
-  - 💻 GitHub: [...](links)
+  - 💻 GitHub: [Vijeta](https://github.com/vijetas11)
 
 - **Suraj Gupta** - *Lead Designer* 🎨 <br/>
    Roll No. 22302
   
-  - 🔗 LinkedIn: [Gupta-Ji](https://www.linkedin.com/in/profsguptaji/)
+  - 🔗 LinkedIn: [ProfGupta](https://www.linkedin.com/in/profsguptaji/)
   - 🐦 Twitter: [...](links)
-  - 💻 GitHub: [...](links)
+  - 💻 GitHub: [ProfGupta](https://github.com/ProfSGuptaJi)
 
 - **Alpna** - *Manager* 📊 <br/>
    Roll No. 22301
   
-  - 🔗 LinkedIn: [Alpna](links)
+  - 🔗 LinkedIn: [Alpna](https://github.com/AlpnaKumari123)
   - 📧 Email: ...
 
 - **Amit** - *Binding Baba* 📚 <br/>
    Roll No. 22305
  
   - 🔗 LinkedIn: [Amit-Baba](links)
-  - 📧 Email: ...
+  - 📧 Email: amitkumarmunna000@gmail.com
 
 ---
 
