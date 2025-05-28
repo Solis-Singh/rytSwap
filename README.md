@@ -460,8 +460,8 @@ The application uses **JWT (JSON Web Tokens)** for authentication. When a user l
 - **Alpna** - *Manager* 📊 <br/>
    Roll No. 22301
   
-  - 🔗 LinkedIn: [Alpna](https://github.com/AlpnaKumari123)
-  - 📧 Email: ...
+  - 🔗 LinkedIn: [Alpna Kumari](https://github.com/AlpnaKumari123)
+  - 📧 Email: alpna1510kumari@gmail.com
 
 - **Amit** - *Binding Baba* 📚 <br/>
    Roll No. 22305
